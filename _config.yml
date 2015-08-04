@@ -1,8 +1,7 @@
 # Site settings
 title: Charles Labanowski's sample transcription
 email: clabanow@gmail.com
-url: "http://clabanow.github.io"
-baseurl: /sample-transcription
+url: "http://clabanow.github.io/jekyll/update/2015/08/04/welcome-to-jekyll.html"
 
 # Build settings
 markdown: kramdown
