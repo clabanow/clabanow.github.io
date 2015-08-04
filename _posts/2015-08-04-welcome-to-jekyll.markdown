@@ -78,7 +78,7 @@ Now that we have our Jekyll site up and running, the work is nearly done, but le
 So open up your newly created Jekyll project in your favorite code editor and we can start to explore it. Your high level [directory structure](http://jekyllrb.com/docs/structure/) should look like this.
 
 ```
-- _includes  <br>
+- _includes
 - _layouts  
 - _posts  
 - _site  
