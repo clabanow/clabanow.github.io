@@ -78,7 +78,7 @@ Now that we have our Jekyll site up and running, the work is nearly done, but le
 So open up your newly created Jekyll project in your favorite code editor and we can start to explore it. Your high level [directory structure](http://jekyllrb.com/docs/structure/) should look like this.
 
 ```
-- _includes  
+- _includes  <br>
 - _layouts  
 - _posts  
 - _site  
@@ -115,17 +115,9 @@ All of this happens when Jekyll is running, and not only does it create these pa
 
 The `_layouts` folder is another important one, which includes your main templates. 
 
-The `default.html` template includes your main structure and a `div` for the main content to be inserted into, which altogether looks like this:
+The `default.html` template includes your main structure and a `div` for the main content to be inserted into.
 
-```
-INSERT default.html
-```
-
-When you get into specifics, the `post.html` template makes allotments for aspects such as the page title, the publishing date, and the post content, like so:
-
-```
-INSERT post.html
-```
+When you get into specifics, the `post.html` template makes allotments for aspects such as the page title, the publishing date, and the post content.
 
 This specific `post.html` template is in contrast to the `default.html` template, which simply spits out all content into the `{{ content }}` placeholder as seen above.
 
