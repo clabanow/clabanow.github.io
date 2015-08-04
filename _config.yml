@@ -2,7 +2,7 @@
 title: Charles Labanowski's sample transcription
 email: clabanow@gmail.com
 url: "http://clabanow.github.io"
-baseurl: sample-transcription
+baseurl: /sample-transcription
 
 # Build settings
 markdown: kramdown
